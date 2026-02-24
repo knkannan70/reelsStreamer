@@ -1,18 +1,31 @@
 [
-  {
-    "url": "https://raw.githubusercontent.com/knkannan70/reelsStreamer/main/demo_NV.mp4",
-    "title": "Parithabangal"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/knkannan70/reelsStreamer/main/demo-V.mp4",
-    "title": "Gun-Handle"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/knkannan70/reelsStreamer/main/violenceVijay.mp4",
-    "title": "Jd Vs Bhavani"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/knkannan70/reelsStreamer/main/Rolex.mp4",
-    "title": "Rolex"
-  }
+  { "url": "https://raw.githubusercontent.com/knkannan70/reelsStreamer/main/Action1.mp4", "title": "Action1" },
+  { "url": "https://raw.githubusercontent.com/knkannan70/reelsStreamer/main/Anbae Sivam.mp4", "title": "Anbae Sivam" },
+  { "url": "https://raw.githubusercontent.com/knkannan70/reelsStreamer/main/Big3IJK.mp4", "title": "Big3IJK" },
+  { "url": "https://raw.githubusercontent.com/knkannan70/reelsStreamer/main/Bottleku10Ruba.mp4", "title": "Bottleku10Ruba" },
+  { "url": "https://raw.githubusercontent.com/knkannan70/reelsStreamer/main/Dragon.mp4", "title": "Dragon" },
+  { "url": "https://raw.githubusercontent.com/knkannan70/reelsStreamer/main/HiddenTenkasi.mp4", "title": "HiddenTenkasi" },
+  { "url": "https://raw.githubusercontent.com/knkannan70/reelsStreamer/main/HindiSong.mp4", "title": "HindiSong" },
+  { "url": "https://raw.githubusercontent.com/knkannan70/reelsStreamer/main/IceAge.mp4", "title": "IceAge" },
+  { "url": "https://raw.githubusercontent.com/knkannan70/reelsStreamer/main/JackieBhai.mp4", "title": "JackieBhai" },
+  { "url": "https://raw.githubusercontent.com/knkannan70/reelsStreamer/main/Jananayagan.mp4", "title": "Jananayagan" },
+  { "url": "https://raw.githubusercontent.com/knkannan70/reelsStreamer/main/KingSteve.mp4", "title": "KingSteve" },
+  { "url": "https://raw.githubusercontent.com/knkannan70/reelsStreamer/main/MCABoys.mp4", "title": "MCABoys" },
+  { "url": "https://raw.githubusercontent.com/knkannan70/reelsStreamer/main/NatureBeauty.mp4", "title": "NatureBeauty" },
+  { "url": "https://raw.githubusercontent.com/knkannan70/reelsStreamer/main/NatureLove.mp4", "title": "NatureLove" },
+  { "url": "https://raw.githubusercontent.com/knkannan70/reelsStreamer/main/Rolex.mp4", "title": "Rolex" },
+  { "url": "https://raw.githubusercontent.com/knkannan70/reelsStreamer/main/SunShine.mp4", "title": "SunShine" },
+  { "url": "https://raw.githubusercontent.com/knkannan70/reelsStreamer/main/VillageBeauty.mp4", "title": "VillageBeauty" },
+  { "url": "https://raw.githubusercontent.com/knkannan70/reelsStreamer/main/action2.mp4", "title": "action2" },
+  { "url": "https://raw.githubusercontent.com/knkannan70/reelsStreamer/main/action3.mp4", "title": "action3" },
+  { "url": "https://raw.githubusercontent.com/knkannan70/reelsStreamer/main/bhahubali.mp4", "title": "bhahubali" },
+  { "url": "https://raw.githubusercontent.com/knkannan70/reelsStreamer/main/demo-V.mp4", "title": "demo-V" },
+  { "url": "https://raw.githubusercontent.com/knkannan70/reelsStreamer/main/demo_NV.mp4", "title": "demo_NV" },
+  { "url": "https://raw.githubusercontent.com/knkannan70/reelsStreamer/main/mangatha.mp4", "title": "mangatha" },
+  { "url": "https://raw.githubusercontent.com/knkannan70/reelsStreamer/main/mankathaAjith.mp4", "title": "mankathaAjith" },
+  { "url": "https://raw.githubusercontent.com/knkannan70/reelsStreamer/main/marriyanVibe.mp4", "title": "marriyanVibe" },
+  { "url": "https://raw.githubusercontent.com/knkannan70/reelsStreamer/main/pennywise.mp4", "title": "pennywise" },
+  { "url": "https://raw.githubusercontent.com/knkannan70/reelsStreamer/main/tamilpadam.mp4", "title": "tamilpadam" },
+  { "url": "https://raw.githubusercontent.com/knkannan70/reelsStreamer/main/terminator.mp4", "title": "terminator" },
+  { "url": "https://raw.githubusercontent.com/knkannan70/reelsStreamer/main/violenceVijay.mp4", "title": "violenceVijay" }
 ]
